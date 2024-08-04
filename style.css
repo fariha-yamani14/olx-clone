@@ -1,0 +1,42 @@
+.navbar-nav>li>a>i{
+    border-radius: 50%;
+    background: radial-gradient(circle at 18.7% 37.8%, rgb(250, 250, 250) 0%, rgb(225, 234, 238) 90%);
+}
+
+
+.fancy-border{
+border-image: linear-gradient;
+}
+#dropdownMenuButton1{
+    border: 2px solid rgb(204, 201, 201);
+
+height: 45px;
+
+}
+
+.form-control{
+    height: 45px;
+    width: 540px;
+    border: 2px solid rgb(204, 201, 201);
+}
+
+.bat{
+    border-bottom: 1px solid rgb(204, 201, 201);
+}
+.fancy-border{
+   border-radius: 30px;
+   border-top: 5px solid #23e5db;
+   border-bottom: 5px solid #3a77ff;
+      border-right: 5px solid #3a77ff;
+      border-left: 5px solid #ffce32;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-left: 10px;
+    background-color: #fff;
+}
+
+
+.cat>li{
+    list-style-type: none;
+}
